@@ -1,4 +1,4 @@
-# Singapore Dataset(s) Exploration - Ongoing
+# 🇸🇬 Singapore Dataset(s) Exploration - Ongoing
 
 This repository contains exploratory data analysis (EDA) of Singapore-related datasets, focusing on housing resale prices and international arrivals. The analyses are performed using Jupyter Notebooks and Python.
 
